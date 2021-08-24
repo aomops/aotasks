@@ -105,7 +105,7 @@ salesloft_cadence_name__c,
 subtype__c,
 isdeleted
 FROM "defaultdb".public.task6
-)
+) 
 
 SELECT 
 Id,
